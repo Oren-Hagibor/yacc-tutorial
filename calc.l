@@ -14,4 +14,3 @@ int yylex();
 
 %%
 int yywrap (void) {return 1;}
-
